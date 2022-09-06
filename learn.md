@@ -40,5 +40,8 @@ You can visit his [YouTube channel](https://www.youtube.com/user/DrMarkCLewis/fe
 ## DevInsideYou
 [DevInsideYou](https://youtube.com/devinsideyou) is a YouTube channel with hundreds of hours of free Scala content.
 
+## Rock the JVM
+[Rock the JVM](https://rockthejvm.com) is a learning platform with free and premium courses on the Scala language, Akka, Cats Effect, ZIO, Apache Spark and other tools in the Scala ecosystem. The [Rock the JVM YouTube channel](https://youtube.com/rockthejvm) has hundreds of free tutorials on a variety of Scala-related topics.
+
 ## Visual Scala Reference
 [Visual Scala Reference](https://superruzafa.github.io/visual-scala-reference/), a guide to visually learn about Scala concepts and functions.
